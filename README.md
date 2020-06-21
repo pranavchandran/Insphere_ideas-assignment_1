@@ -16,4 +16,10 @@ Hint:(Can push hardcoded data in array)
    
    3. Run Unit tests in python to cover the validation scenarios, save criteria.  
    
-   
+   Mainly Used Files are 4: Check2.py  
+                                                dupicate_solver.py  
+                                                Search_test.py
+                                                unit_test.py  
+ All other files in the extra folder in during the project creating time my testing and i make small utilies.thats it.  
+ 
+ 
