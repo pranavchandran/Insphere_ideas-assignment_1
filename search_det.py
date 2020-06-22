@@ -6,7 +6,7 @@ from datetime import datetime
 
 def searching(*args,**kwargs):
     filename = "worktime_records.csv"
-    dob = input('Input to check the Status Format (YYYY-MM-DD): ')
+    dob = input('Search by date in this Format (YYYY-MM-DD): ')
     date_time_obj = datetime.strptime(dob,'%Y-%m-%d')
 
     with open(filename, newline='') as myfile:

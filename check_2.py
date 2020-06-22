@@ -83,4 +83,4 @@ def inputs(machineID=None,workTime=None,Date=None,start_time_inp=None,end_time_i
 inputs()
 duplicate_solver()
 """If you want to search the data in server please uncomment the stuff1"""
-# searching()
+searching()
